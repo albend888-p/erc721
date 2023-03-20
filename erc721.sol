@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "https://github.com/albend888-p/erc721/contracts/contracts/tokens/nf-token-metadata.sol";
+import "https://github.com/albend888-p/erc721/contracts/tokens/nf-token-metadata.sol";
 import "https://github.com/albend888-p/erc721/contracts/ownership/ownable.sol";
 
 /**
