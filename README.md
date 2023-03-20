@@ -4,20 +4,20 @@
 
 ## Upload code
 
-![Upload code](https://prnt.sc/VMXYrDygnmHT)
+![Upload code](./imgs/1.png)
 
 ## Change init data
 
-![Init data](https://prnt.sc/c-rofU5ajYij)
+![Init data](./imgs/2.png)
 
 ## Compile
 
-![Compile](https://prnt.sc/8cB9h-ZQg3qG)
+![Compile](./imgs/3.png)
 
 ## Deploy
 
-![Deploy](https://prnt.sc/6M_t_u9DLDLm)
+![Deploy](./imgs/4.png)
 
 ## Mint NFT
 
-![Mint](https://prnt.sc/IY5qoU5Cv093)
+![Mint](./imgs/5.png)
