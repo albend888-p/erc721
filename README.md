@@ -4,20 +4,20 @@
 
 ## Upload code
 
-![Upload code]https://prnt.sc/VMXYrDygnmHT
+![Upload code](https://prnt.sc/VMXYrDygnmHT)
 
 ## Change init data
 
-![Init data]https://prnt.sc/c-rofU5ajYij
+![Init data](https://prnt.sc/c-rofU5ajYij)
 
 ## Compile
 
-![Compile]https://prnt.sc/8cB9h-ZQg3qG
+![Compile](https://prnt.sc/8cB9h-ZQg3qG)
 
 ## Deploy
 
-![Deploy]https://prnt.sc/6M_t_u9DLDLm
+![Deploy](https://prnt.sc/6M_t_u9DLDLm)
 
 ## Mint NFT
 
-![Mint]https://prnt.sc/IY5qoU5Cv093
+![Mint](https://prnt.sc/IY5qoU5Cv093)
