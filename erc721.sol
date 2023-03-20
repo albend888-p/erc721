@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "https://github.com/nibbstack/erc721/src/contracts/tokens/nf-token-metadata.sol";
-import "https://github.com/nibbstack/erc721/src/contracts/ownership/ownable.sol";
+import "https://github.com/albend888-p/erc721/contracts/contracts/tokens/nf-token-metadata.sol";
+import "https://github.com/albend888-p/erc721/contracts/ownership/ownable.sol";
 
 /**
  * @dev This is an example contract implementation of NFToken with metadata extension.
