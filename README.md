@@ -1,5 +1,5 @@
 
-# Mint your first NFT erc721 via remix.ethereum.org
+# Mint your NFT erc721 via remix.ethereum.org
 
 
 ## Upload code
